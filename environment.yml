@@ -2,4 +2,3 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
-  - IPython.display
